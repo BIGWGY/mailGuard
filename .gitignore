@@ -1,0 +1,15 @@
+assets/*
+!assets/.gitignore
+protected/runtime/*
+!protected/runtime/.gitignore
+protected/data/*.db
+themes/classic/views/
+/composer.lock
+/vendor
+*.log
+.js
+.idea
+*.iml
+target
+.runtime
+.idea
